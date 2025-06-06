@@ -1,0 +1,262 @@
+Country Name,Country Code,Year,Poverty Rate
+Madagascar,MDG,1980,61.7
+Morocco,MAR,1984,22.4
+Botswana,BWA,1985,50.1
+Cote d'Ivoire,CIV,1985,14.0
+Nigeria,NGA,1985,51.1
+Tunisia,TUN,1985,21.6
+Cote d'Ivoire,CIV,1986,10.4
+Lesotho,LSO,1986,62.8
+Cote d'Ivoire,CIV,1987,16.2
+Ghana,GHA,1987,78.2
+Mauritania,MRT,1987,50.8
+Cote d'Ivoire,CIV,1988,23.8
+Algeria,DZA,1988,12.3
+Ghana,GHA,1988,77.4
+Uganda,UGA,1989,72.8
+"Egypt, Arab Rep.",EGY,1990,7.1
+Morocco,MAR,1990,11.2
+Tunisia,TUN,1990,16.3
+Ghana,GHA,1991,80.4
+Guinea,GIN,1991,86.4
+Guinea-Bissau,GNB,1991,50.8
+Senegal,SEN,1991,77.3
+Tanzania,TZA,1991,73.5
+Zambia,ZMB,1991,63.0
+Burundi,BDI,1992,85.0
+Central African Republic,CAF,1992,84.8
+Cote d'Ivoire,CIV,1992,39.6
+Kenya,KEN,1992,32.0
+Niger,NER,1992,88.0
+Nigeria,NGA,1992,55.2
+Uganda,UGA,1992,79.9
+Botswana,BWA,1993,42.1
+Guinea-Bissau,GNB,1993,52.8
+Madagascar,MDG,1993,83.1
+Mauritania,MRT,1993,54.1
+Namibia,NAM,1993,60.3
+South Africa,ZAF,1993,44.6
+Zambia,ZMB,1993,67.1
+Burkina Faso,BFA,1994,87.6
+Guinea,GIN,1994,37.5
+Kenya,KEN,1994,32.0
+Lesotho,LSO,1994,59.6
+Mali,MLI,1994,89.4
+Niger,NER,1994,88.9
+Senegal,SEN,1994,72.2
+Eswatini,SWZ,1994,89.3
+Cote d'Ivoire,CIV,1995,40.9
+Algeria,DZA,1995,11.8
+"Egypt, Arab Rep.",EGY,1995,4.1
+Ethiopia,ETH,1995,73.5
+Mauritania,MRT,1995,31.7
+Tunisia,TUN,1995,17.4
+Cameroon,CMR,1996,56.5
+Mozambique,MOZ,1996,87.7
+Nigeria,NGA,1996,60.9
+Uganda,UGA,1996,78.5
+Zambia,ZMB,1996,56.1
+Kenya,KEN,1997,32.6
+Madagascar,MDG,1997,80.7
+Malawi,MWI,1997,64.6
+Burundi,BDI,1998,87.6
+Burkina Faso,BFA,1998,86.4
+Cote d'Ivoire,CIV,1998,44.1
+Ghana,GHA,1998,65.3
+"Gambia, The",GMB,1998,78.0
+Morocco,MAR,1998,17.5
+Zambia,ZMB,1998,56.6
+"Egypt, Arab Rep.",EGY,1999,0.0
+Ethiopia,ETH,1999,65.9
+Madagascar,MDG,1999,78.5
+Seychelles,SYC,1999,1.8
+Uganda,UGA,1999,80.6
+Angola,AGO,2000,27.0
+Morocco,MAR,2000,16.8
+Mauritania,MRT,2000,30.7
+Rwanda,RWA,2000,82.3
+Sao Tome and Principe,STP,2000,17.3
+Eswatini,SWZ,2000,65.0
+Tunisia,TUN,2000,10.5
+Tanzania,TZA,2000,86.9
+South Africa,ZAF,2000,47.9
+Cameroon,CMR,2001,30.8
+Cabo Verde,CPV,2001,37.1
+Madagascar,MDG,2001,79.4
+Mali,MLI,2001,68.6
+Senegal,SEN,2001,63.9
+Botswana,BWA,2002,34.8
+Cote d'Ivoire,CIV,2002,44.7
+Djibouti,DJI,2002,32.3
+Guinea,GIN,2002,50.3
+Guinea-Bissau,GNB,2002,68.2
+Lesotho,LSO,2002,74.9
+Mozambique,MOZ,2002,87.6
+Uganda,UGA,2002,78.6
+Zambia,ZMB,2002,68.0
+Benin,BEN,2003,70.5
+Burkina Faso,BFA,2003,69.6
+"Gambia, The",GMB,2003,55.2
+Namibia,NAM,2003,47.6
+Nigeria,NGA,2003,51.1
+Sierra Leone,SLE,2003,72.4
+Chad,TCD,2003,66.7
+"Congo, Dem. Rep.",COD,2004,94.9
+"Egypt, Arab Rep.",EGY,2004,4.1
+Ethiopia,ETH,2004,41.3
+Mauritania,MRT,2004,28.5
+Malawi,MWI,2004,74.4
+Zambia,ZMB,2004,68.9
+"Congo, Rep.",COG,2005,54.5
+Gabon,GAB,2005,9.2
+Ghana,GHA,2005,60.9
+Kenya,KEN,2005,44.6
+Madagascar,MDG,2005,83.9
+Niger,NER,2005,83.8
+Rwanda,RWA,2005,74.2
+Senegal,SEN,2005,53.6
+Tunisia,TUN,2005,5.9
+Uganda,UGA,2005,72.4
+South Africa,ZAF,2005,42.1
+Burundi,BDI,2006,81.5
+Morocco,MAR,2006,9.4
+Mali,MLI,2006,64.0
+Mauritius,MUS,2006,1.1
+Seychelles,SYC,2006,0.6
+Togo,TGO,2006,67.6
+Zambia,ZMB,2006,72.0
+Cameroon,CMR,2007,36.0
+Cabo Verde,CPV,2007,26.2
+Guinea,GIN,2007,44.0
+Liberia,LBR,2007,61.1
+Niger,NER,2007,82.9
+Tanzania,TZA,2007,61.9
+Angola,AGO,2008,22.1
+Central African Republic,CAF,2008,67.3
+Cote d'Ivoire,CIV,2008,47.9
+"Egypt, Arab Rep.",EGY,2008,3.7
+Mozambique,MOZ,2008,81.1
+Mauritania,MRT,2008,19.2
+South Africa,ZAF,2008,30.3
+Burkina Faso,BFA,2009,67.2
+Botswana,BWA,2009,21.1
+Mali,MLI,2009,63.3
+Namibia,NAM,2009,38.6
+Sudan,SDN,2009,13.1
+South Sudan,SSD,2009,44.9
+Eswatini,SWZ,2009,58.2
+Uganda,UGA,2009,63.5
+"Egypt, Arab Rep.",EGY,2010,1.5
+Ethiopia,ETH,2010,37.4
+"Gambia, The",GMB,2010,34.2
+Guinea-Bissau,GNB,2010,75.7
+Madagascar,MDG,2010,87.3
+Malawi,MWI,2010,72.9
+Nigeria,NGA,2010,38.5
+Rwanda,RWA,2010,70.2
+Sao Tome and Principe,STP,2010,18.9
+Tunisia,TUN,2010,3.1
+South Africa,ZAF,2010,29.5
+Zambia,ZMB,2010,71.4
+Benin,BEN,2011,68.4
+"Congo, Rep.",COG,2011,39.2
+Algeria,DZA,2011,0.0
+Niger,NER,2011,68.8
+Senegal,SEN,2011,53.3
+Sierra Leone,SLE,2011,53.7
+Chad,TCD,2011,45.2
+Togo,TGO,2011,65.5
+Tanzania,TZA,2011,51.5
+Zimbabwe,ZWE,2011,35.7
+"Congo, Dem. Rep.",COD,2012,78.9
+Djibouti,DJI,2012,26.4
+"Egypt, Arab Rep.",EGY,2012,1.2
+Ghana,GHA,2012,41.8
+Guinea,GIN,2012,21.3
+Madagascar,MDG,2012,87.7
+Mauritius,MUS,2012,1.1
+Nigeria,NGA,2012,37.4
+Uganda,UGA,2012,56.2
+Burundi,BDI,2013,75.8
+Djibouti,DJI,2013,31.2
+Morocco,MAR,2013,3.7
+Rwanda,RWA,2013,65.2
+Seychelles,SYC,2013,1.6
+Burkina Faso,BFA,2014,58.7
+Cameroon,CMR,2014,29.0
+Comoros,COM,2014,31.4
+Liberia,LBR,2014,31.7
+Mozambique,MOZ,2014,74.4
+Mauritania,MRT,2014,11.7
+Niger,NER,2014,60.3
+Sudan,SDN,2014,10.1
+South Africa,ZAF,2014,31.2
+Benin,BEN,2015,65.8
+Botswana,BWA,2015,21.4
+Cote d'Ivoire,CIV,2015,47.5
+Cabo Verde,CPV,2015,14.6
+"Egypt, Arab Rep.",EGY,2015,1.2
+Ethiopia,ETH,2015,33.0
+"Gambia, The",GMB,2015,17.1
+Kenya,KEN,2015,37.7
+Namibia,NAM,2015,22.9
+Nigeria,NGA,2015,35.8
+Togo,TGO,2015,61.7
+Tunisia,TUN,2015,0.7
+Zambia,ZMB,2015,67.9
+Ghana,GHA,2016,39.0
+Liberia,LBR,2016,33.6
+Malawi,MWI,2016,71.7
+Rwanda,RWA,2016,63.8
+South Sudan,SSD,2016,76.5
+Eswatini,SWZ,2016,44.5
+Uganda,UGA,2016,60.1
+Djibouti,DJI,2017,25.4
+"Egypt, Arab Rep.",EGY,2017,3.1
+Gabon,GAB,2017,3.8
+Lesotho,LSO,2017,41.9
+Mauritius,MUS,2017,0.5
+Sao Tome and Principe,STP,2017,13.0
+Zimbabwe,ZWE,2017,44.7
+Angola,AGO,2018,39.3
+Benin,BEN,2018,37.2
+Burkina Faso,BFA,2018,47.7
+Cote d'Ivoire,CIV,2018,22.7
+Guinea,GIN,2018,11.7
+Guinea-Bissau,GNB,2018,37.1
+Mali,MLI,2018,29.4
+Niger,NER,2018,59.0
+Nigeria,NGA,2018,34.2
+Senegal,SEN,2018,19.1
+Sierra Leone,SLE,2018,41.5
+Chad,TCD,2018,41.9
+Togo,TGO,2018,35.3
+Tanzania,TZA,2018,51.3
+"Egypt, Arab Rep.",EGY,2019,2.0
+Mozambique,MOZ,2019,82.2
+Mauritania,MRT,2019,10.2
+Malawi,MWI,2019,75.4
+Uganda,UGA,2019,59.8
+Zimbabwe,ZWE,2019,49.2
+Burundi,BDI,2020,74.2
+"Congo, Dem. Rep.",COD,2020,85.3
+"Gambia, The",GMB,2020,22.0
+Kenya,KEN,2020,44.4
+Benin,BEN,2021,27.2
+Burkina Faso,BFA,2021,42.1
+Central African Republic,CAF,2021,71.6
+Cote d'Ivoire,CIV,2021,20.9
+Cameroon,CMR,2021,26.7
+"Egypt, Arab Rep.",EGY,2021,1.4
+Ethiopia,ETH,2021,38.6
+Guinea-Bissau,GNB,2021,39.9
+Kenya,KEN,2021,46.4
+Mali,MLI,2021,36.1
+Niger,NER,2021,60.5
+Senegal,SEN,2021,17.9
+Togo,TGO,2021,34.7
+Tunisia,TUN,2021,0.7
+Equatorial Guinea,GNQ,2022,8.8
+Chad,TCD,2022,39.5
+Zambia,ZMB,2022,71.7
+
