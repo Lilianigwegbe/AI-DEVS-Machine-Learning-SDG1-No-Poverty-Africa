@@ -1,0 +1,27 @@
+🧭 3. Ethical Reflection: Bias & Fairness
+
+Data Bias:
+
+Geographical gaps: Some countries may be underrepresented, skewing results.
+
+Temporal bias: Older data might be less reliable.
+
+Model Fairness:
+
+If a model is trained using data from certain countries, its performance may degrade for others with different socio-economic dynamics.
+
+Predictions may perpetuate inequality if interventions don’t account for diverse regional realities.
+
+Privacy & Power Dynamics:
+
+Ensure data privacy by using only publicly available aggregated stats.
+
+Be transparent about model limitations when informing policymakers.
+
+Recommendations:
+
+Regularly audit model performance across countries/subgroups.
+
+Include local stakeholders in interpreting predictions.
+
+Design for fairness by incorporating data from all regions, not just high-data ones.
