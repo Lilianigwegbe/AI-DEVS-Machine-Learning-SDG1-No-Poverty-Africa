@@ -5,8 +5,7 @@
 ---
 
 ## 📖 About This Project  
-
-Hi there! 👋  
+  
 
 This is AI software engineering project was created as part of our Sustainable Development Goals (SDG) machine learning assignment. We chose **SDG 1: No Poverty**, focusing on forecasting poverty trends in African countries.  
 
